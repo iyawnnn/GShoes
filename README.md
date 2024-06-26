@@ -4,11 +4,17 @@ The application supports a range of functionalities including selecting shoe siz
 Features:
 
 User Authentication: Login functionality for secure access.
+
 Product Browsing: Browse products from five major brands (Nike, Adidas, New Balance, Vans, and Asics).
+
 Cart Management: Add items to the cart, view cart contents, and remove items.
+
 Size Selection: Select shoe sizes during the purchase process.
+
 Checkout Process: Enter shipping details, choose a payment method, and confirm the purchase.
+
 Receipt Generation: Generates a receipt detailing the order summary, processing fee, shipping fee, and total cost.
+
 
 Requirements:
 
