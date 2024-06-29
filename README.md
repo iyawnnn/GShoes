@@ -29,4 +29,4 @@ GSHOES is a console-based Java application simulating an online shoe store. User
 - **Add to Cart:** Choose a product, select the size, and add it to the cart.
 - ***View Cart:** Review the items in the cart, remove items if needed.
 - **Checkout:** Enter shipping details, choose a payment method, and confirm the order.
-- **Receipt:** Review the generated receipt and confirm the purchase****
+- **Receipt:** Review the generated receipt and confirm the purchase
